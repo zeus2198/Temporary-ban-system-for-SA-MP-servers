@@ -14,13 +14,13 @@ This is temporary ban system including ip bans for sa-mp servers. It uses [y_ini
 
 ## Commands
 Command | Description
-:---: | ---
+--- | ---
 /ban id [duration in days] [Reason] | Bans a player for specified number of days.
 /banm [id] [hours] [minutes] [reason] | Bans a player for specified number of hours and minutes.
 /log | Shows unban log.
 /banperm [id] [Reason] | Permanently bans a player.
-/removeban [playername] | Removes a ban.** * **
+/removeban [playername] | Removes a ban. *
 /showbans | Shows currently banned players.
 /showbaninfo [playername] | Shows the ban info of a specific player specified. You need exact name of player.
  
-** * ** _An alternative way to remove ban is remove player ini file directly from Bans folder._
+* _An alternative way to remove ban is remove player ini file directly from Bans folder._
